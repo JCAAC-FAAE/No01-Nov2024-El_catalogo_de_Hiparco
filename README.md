@@ -1,4 +1,4 @@
-[Journal of Computational Astronomy & Astronomical Computing (JCAAC)](https://federacionastronomica.es/index.php/the-journal/archive) [`No. 1, November 2024`](https://github.com/topics/01-nov2024), page 99
+[Journal of Computational Astronomy & Astronomical Computing (JCAAC)]([https://federacionastronomica.es/index.php/the-journal/archive](https://federacionastronomica.es/index.php/the-journal/archive/contents/611-el-catalogo-de-estrellas-de-hiparco)) [`No. 1, November 2024`](https://github.com/topics/01-nov2024), page 25–48
 
 # The Star Catalogue of Hipparchus
 > It is intended to demonstrate that Hipparchus made the Almagest Star Catalogue before
