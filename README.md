@@ -1,23 +1,4 @@
-[Journal of Computational Astronomy & Astronomical Computing (JCAAC)]([https://federacionastronomica.es/index.php/the-journal/archive](https://federacionastronomica.es/index.php/the-journal/archive/contents/611-el-catalogo-de-estrellas-de-hiparco)) [`No. 1, November 2024`](https://github.com/topics/01-nov2024), page 25–48
-
-# The Star Catalogue of Hipparchus
-> It is intended to demonstrate that Hipparchus made the Almagest Star Catalogue before
-Claudius Ptolemy, who rotated the solstitial and equinoctial points by the number of degrees
-he thought of the precession, 1°/100 years, from the time of Hipparchus. At the beginning of
-the 19th century, Delambre suggested that Ptolemy had not made any measurements, copying
-the observations and measurements of Hipparchus, with some later, poorly executed ones, to
-obtain the expected result. The observations and descriptions of eclipses that appear in the
-Almagest are well described, and correspond to real events, up to the time of Hipparchus.
-According to Delambre, and other more modern authors, the later observations and
-descriptions are invented. The ecliptic longitudes and latitudes of the stars of the Almagest
-have been monitored, in Plate Carrée projection. Graphs have been constructed in equidistant
-azimuthal projection. Similarly, the same coordinates of the most significant stars of twenty
-constellations have been taken, on the date J2000. Using two programs in Python/Cartopy, the
-graphics of the stars have been constructed in the two eras, that of the first year of Antoninus
-Pius, year 138 AD, and that of the Julian date 2000, rotated backwards by the degrees of the
-real precession, 26.01°, between both dates. There is a difference of 1.05° between the ecliptic
-longitudes of the J2000 stars, rotated, and those of the Almagest star catalogue, located
-towards dates 75 years older, which suggests the existence of a systematic error.
+[Journal of Computational Astronomy & Astronomical Computing (JCAAC)](https://federacionastronomica.es/index.php/the-journal/archive) [`No. 1, Nov. 2024, 25–48`](https://federacionastronomica.es/index.php/the-journal/archive/contents/611-el-catalogo-de-estrellas-de-hiparco)
 
 # El catálogo de estrellas de Hiparco
 > Se quiere demostrar que Hiparco realizó el Catálogo de Estrellas del Almagesto, antes que
@@ -38,6 +19,25 @@ grados de la precesión real, 26,01°, entre ambas fechas. Hay una diferencia de
 longitudes eclípticas de las estrellas J2000, giradas, y las del catálogo de estrellas del
 Almagesto, situadas hacia fechas 75 años más antiguas, lo que sugiere la existencia de un error
 sistemático.
+
+# The Star Catalogue of Hipparchus
+> It is intended to demonstrate that Hipparchus made the Almagest Star Catalogue before
+Claudius Ptolemy, who rotated the solstitial and equinoctial points by the number of degrees
+he thought of the precession, 1°/100 years, from the time of Hipparchus. At the beginning of
+the 19th century, Delambre suggested that Ptolemy had not made any measurements, copying
+the observations and measurements of Hipparchus, with some later, poorly executed ones, to
+obtain the expected result. The observations and descriptions of eclipses that appear in the
+Almagest are well described, and correspond to real events, up to the time of Hipparchus.
+According to Delambre, and other more modern authors, the later observations and
+descriptions are invented. The ecliptic longitudes and latitudes of the stars of the Almagest
+have been monitored, in Plate Carrée projection. Graphs have been constructed in equidistant
+azimuthal projection. Similarly, the same coordinates of the most significant stars of twenty
+constellations have been taken, on the date J2000. Using two programs in Python/Cartopy, the
+graphics of the stars have been constructed in the two eras, that of the first year of Antoninus
+Pius, year 138 AD, and that of the Julian date 2000, rotated backwards by the degrees of the
+real precession, 26.01°, between both dates. There is a difference of 1.05° between the ecliptic
+longitudes of the J2000 stars, rotated, and those of the Almagest star catalogue, located
+towards dates 75 years older, which suggests the existence of a systematic error.
 
 # Instrucciones de uso
 La descripción de las funciones principales, `impresion_reticula_AzimuthalEquidistant()` y `impresion_reticula_PlateCarree_Constelacion()`, así como de sus argumentos de entrada y las especificaciones de formato de los ficheros de datos, se encuentra en el módulo `formats.py`. 
